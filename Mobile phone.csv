@@ -1,0 +1,37 @@
+S.No,Brand Name,Product Name,Form Factor,Memory Storage (GB),Processor,RAM (GB),Battery (mAh),Front Camera (MP),Rear Camera (MP),Warranty (Year)
+1,Apple,Apple iPhone 13 Pro Max,Smart Phone,128,A15 Bionic Chip,16,5000,12,12,1
+2,Xiaomi,Xiamoi 12 Pro,Smart Phone,256,Snapdragon 8 Gen 1,12,4600,32,150,1
+3,Oneplus,Oneplus 9 Pro ,Smart Phone,128,Qualcomm Snapdragon 888,8,4500,16,108,1
+4,realme,realme GT 2 Pro,Smart Phone,128,Qualcomm Snapdragon 8 Gen 1,8,5000,32,102,1
+5,IQOO ,IQOO Z6 ,Smart Phone,128,Snapdragon 695,8,5000,16,54,1
+6,Samsung,Samsung Galaxy M33,Smart Phone,128,Octa Core Exynos,6,6000,8,54,1
+7,Mi ,Mi 10,Smart Phone,256,Octa Core Qualcomm Snapdragon,8,4780,20,123,1
+8,OPPO,Oppo F21 Pro,Smart Phone,128,Octa Core Qualcomm Snapdragon 695,8,4500,32,68,1
+9,VIVO,Vivo V23 Pro,Smart Phone,128,Mediatek Dimensity,8,4300,58,118,1
+10,Samsung,Samsung Galaxy Z Flip,Smart Phone,256,Snapdragon 8 Gen 2,8,3700,10,34,1
+11,OPPO,Oppo Reno 10 Pro,Smart Phone,256,Qualcomm Snapdragon 8 Gen 1,12,4700,32,122,1
+12,Oneplus,Oneplus Nord 3,Smart Phone,256,Mediatek Dimensity 9000,16,5000,16,60,1
+13,Motorola,Motorola Razr 40 Ultra,Smart Phone,256,Qualcomm Snapdragon 8 Gen 1,8,3800,32,25,1
+14,Samsung,Samsung Galaxy S23 Ultra,Smart Phone,256,Snapdragon 8 Gen 2,8,5000,12,222,1
+15,Samsung,Samsung Galaxy S23,Smart Phone,256,Snapdragon 8 Gen 2,8,3900,12,72,1
+16,Oneplus,Oneplus 11R,Smart Phone,256,Qualcomm Snapdragon 8 Gen 1,16,5000,16,60,1
+17,Oneplus,Oneplus 11,Smart Phone,256,Snapdragon 8 Gen 2,12,5000,16,130,1
+18,Redmi,Redmi Note 12 Pro,Smart Phone,256,Mediatek,12,4980,16,210,1
+19,OPPO,Oppo Find N2 Flip,Smart Phone,256,Mediatek Dimensity 9000,12,4300,32,58,1
+20,IQOO ,IQOO 11,Smart Phone,128,Qualcomm Snapdragon ,8,5000,16,71,1
+21,Xiaomi,Xiamoi 13 Pro,Smart Phone,256,Snapdragon 8 Gen 2,12,4820,32,150,1
+22,Google ,Google Pixel 7 Pro,Smart Phone,128,Google Tensor G2,12,3500,10.8,110,1
+23,Google ,Google Pixel 7 ,Smart Phone,128,Google Tensor G2,8,3500,10.8,62,1
+24,Motorola,Motorola Edge 30 Fusion,Smart Phone,128,Qualcomm Snapdragon 888,8,4400,32,63,1
+25,Apple,iPhone 14,Smart Phone,128,A15 Bionic Chip,12,5000,12,24,1
+26,Apple,iPhone 14 Plus,Smart Phone,128,A15 Bionic Chip,12,5000,12,24,1
+27,Apple,iPhone 14 Pro,Smart Phone,128,A16 Bionic Chip,6,5000,12,72,1
+28,Samsung,Samsung Galaxy Z Fold 4,Smart Phone,256,Qualcomm Snapdragon 8 Gen 1,12,4400,14,72,1
+29,Infinix,Infinix Hot 30 ,Smart Phone,128,Mediatek Dimensity 6020,8,6000,8,52,1
+30,IQOO ,IQOO Neo 7 Pro,Smart Phone,128,Qualcomm Snapdragon 8 Gen 1,8,5000,16,60,1
+31,VIVO,Vivo V25 Pro,Smart Phone,128,Mediatek Dimensity 1300,12,4830,32,74,1
+32,Oneplus,Oneplus 10T ,Smart Phone,256,Qualcomm Snapdragon 8 Gen 1,16,4800,16,60,1
+33,IQOO ,IQOO Z6 Lite,Smart Phone,128,Qualcomm Snapdragon 4 Gen 1,8,5000,8,52,1
+34,Motorola,Motorola Moto G72,Smart Phone,128,Mediatek Helio G99,6,5000,16,118,1
+35,realme,Realme 10 Pro Plus,Smart Phone,128,Mediatek ,8,5000,16,118,1
+,,,,,,,,,,
